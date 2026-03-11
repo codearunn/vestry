@@ -33,5 +33,17 @@
     "editor.cursorWidth": 2,
     "editor.renderLineHighlight": "all",
     "editor.bracketPairColorization.enabled": true,
-    "workbench.tree.indent": 16
+    "workbench.tree.indent": 16,
+    // ── No Auto Suggestions (trigger manually with Ctrl+Space) ──
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.wordBasedSuggestions": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.hover.enabled": false
 }
