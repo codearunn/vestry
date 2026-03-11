@@ -6,7 +6,7 @@
     },
     "explorer.excludeGitIgnore": true,
     // ── Extreme Dark Theme ──────────────────────────────
-    "workbench.colorTheme": "Abyss",
+    "workbench.colorTheme": "One Dark Pro",
     "workbench.colorCustomizations": {
         "editor.background": "#000000",
         "sideBar.background": "#050505",
