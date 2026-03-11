@@ -4,5 +4,34 @@
         "**/.git": true,
         "**/.DS_Store": true
     },
-    "explorer.excludeGitIgnore": true
+    "explorer.excludeGitIgnore": true,
+    // ── Extreme Dark Theme ──────────────────────────────
+    "workbench.colorTheme": "Abyss",
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "sideBar.background": "#050505",
+        "activityBar.background": "#000000",
+        "statusBar.background": "#000000",
+        "titleBar.activeBackground": "#000000",
+        "titleBar.inactiveBackground": "#000000",
+        "panel.background": "#050505",
+        "terminal.background": "#000000",
+        "editorGroupHeader.tabsBackground": "#050505",
+        "tab.inactiveBackground": "#080808",
+        "tab.activeBackground": "#000000",
+        "sideBarSectionHeader.background": "#000000",
+        "activityBar.border": "#111111",
+        "sideBar.border": "#111111",
+        "editor.lineHighlightBackground": "#0a0a0a"
+    },
+    // ── Font & Editor Polish ────────────────────────────
+    "editor.fontFamily": "'JetBrains Mono', 'Fira Code', Menlo, monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 24,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorWidth": 2,
+    "editor.renderLineHighlight": "all",
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.tree.indent": 16
 }
